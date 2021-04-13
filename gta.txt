@@ -6,7 +6,5 @@ Curso git
 
 Cambio nuevo realizado
 
-Rama eclipse
-
-Rama eclipse
+Rama eclipse y master
 
